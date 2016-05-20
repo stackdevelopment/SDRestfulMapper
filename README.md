@@ -12,7 +12,7 @@ A developer would simply create a sub-class of ABModelMap with whatever properti
                                                     @"address",
                                                     @"latitude",
                                                     @"longitude"]];
-                                                    ```
+```
 
 However you can also specify a mapping between to differently named items:
 
